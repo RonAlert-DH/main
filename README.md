@@ -1,4 +1,4 @@
-# RONAlert - FORDIANS
+# RONAlert - team FORDIANS
 
 We all found ourselves in a difficult situation when the coronavirus disrupted our daily lives. As much as we would like to follow the official safety guidelines from health organizations, we sometimes simply just forget about them. Our solution helps us achieve that by being a silent partner in a room. By gently reminding us when we make a mistake (not maintaining distance or not wearing a face mask) and issuing different alarms that persist for as long as we do not resolve them doing everything in our power to stop the spread was never easier.
 
